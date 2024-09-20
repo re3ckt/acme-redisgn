@@ -1,0 +1,23 @@
+body {
+    background-color: rgba(75, 185, 110, 0.586);
+}
+
+.title {
+    text-align: center;
+    font-family: sans-serif;
+}
+.anvil { 
+    align-items: first baseline;
+    text-align: left;
+    margin-top: -7%;
+
+}
+.links{ 
+    font-family: sans-serif;
+    text-align: left;
+
+}
+.atom{
+    text-align: right;
+    margin-top: -7%;
+}
